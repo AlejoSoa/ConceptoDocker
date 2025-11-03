@@ -1,0 +1,13 @@
+{
+  "name": "mi-app-compose",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.21.2",
+    "mongoose": "^8.0.0"
+  }
+}
