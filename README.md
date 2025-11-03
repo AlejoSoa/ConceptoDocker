@@ -104,7 +104,7 @@ Formulario que al registra nombre y correo logre redireccionarlo a una lista
 - 🔎 Buscar en el navegador
    http://localhost:3306/formulario
   
-- ❎ Apagarlo
+- ❌ Apagarlo
   docker compose down
 
 
