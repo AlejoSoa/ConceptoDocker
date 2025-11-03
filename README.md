@@ -80,5 +80,4 @@ Docker es ideal para proyectos web que necesitan una base de datos como MySQL y 
 
 - Documentacion Oficial https://docs.docker.com/
 - Docker con MySQL https://hub.docker.com/_/mysql
-- Docker con NodeJS https://hub.docker.com/_/node"# ExplicacionDocker" 
-"# ExplicacionDocker" 
+- Docker con NodeJS https://hub.docker.com/_/node"
