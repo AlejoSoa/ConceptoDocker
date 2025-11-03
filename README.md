@@ -80,4 +80,31 @@ Docker es ideal para proyectos web que necesitan una base de datos como MySQL y 
 
 - Documentacion Oficial https://docs.docker.com/
 - Docker con MySQL https://hub.docker.com/_/mysql
-- Docker con NodeJS https://hub.docker.com/_/node"
+- Docker con NodeJS https://hub.docker.com/_/node
+
+---
+## 📘 Ejercicio Practico
+
+Formulario que al registra nombre y correo logre redireccionarlo a una lista 
+
+### 🖊️ Pasos para Ejecutarlo 
+
+- Tener Instalado Docker
+  https://docs.docker.com/
+
+- Instalar node.js
+  https://nodejs.org/es/download
+
+- En el proyecto instalar en la terminal express
+  npm install express
+
+- ✅ Ejecutarlo
+  docker compose up
+
+- 🔎 Buscar en el navegador
+   http://localhost:3306/formulario
+  
+- ❎ Apagarlo
+  docker compose down
+
+
