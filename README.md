@@ -8,7 +8,9 @@
 
 ### 📽️ Video #1 - Aprende Docker ahora! 
 
+```bash
     https://www.youtube.com/watch?v=4Dko5W96WHg
+```
 
 - Comenzamos con una introduccion sobre la virtualizacion ligera con contenedores.
 
@@ -36,7 +38,9 @@
 
 ### 📽️ Video #2 - Docker de Novato a Pro
 
+```bash
     https://www.youtube.com/watch?v=CV_Uf3Dq-EU
+```
 
 - Empezamos a conocer sobre como crear imagenes personalizadas con `Dockerfile`.
 
@@ -90,21 +94,37 @@ Formulario que al registra nombre y correo logre redireccionarlo a una lista
 ### 🖊️ Pasos para Ejecutarlo 
 
 - Tener Instalado Docker
+  
+  ```bash
   https://docs.docker.com/
-
+  ```
+  
 - Instalar node.js
+
+  ```bash
   https://nodejs.org/es/download
-
+  ```
+  
 - En el proyecto instalar en la terminal express
+  
+  ```bash
   npm install express
-
+  ```
+  
 - ✅ Ejecutarlo
-  docker compose up
 
+  ```bash
+  docker compose up
+  ```
+  
 - 🔎 Buscar en el navegador
+
+  ```bash
    http://localhost:3306/formulario
+  ```
   
 - ❌ Apagarlo
+
+  ```bash
   docker compose down
-
-
+  ```
